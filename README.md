@@ -4,7 +4,7 @@
 
 ## 🗂️ Dataset
 
-* **Source**: Blinkit Sales Dataset (CSV)
+* **Source**: [blinkit\_data.csv](blinkit_data.csv)
 * **Features Used**:
 
   * Item details (`Item Type`, `Item Fat Content`, `Item Visibility`, etc.)
