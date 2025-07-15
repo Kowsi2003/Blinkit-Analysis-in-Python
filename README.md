@@ -25,7 +25,9 @@
 ## 🚀 Project Objectives
 
 ✅ Perform **Exploratory Data Analysis (EDA)** on Blinkit sales data.
+
 ✅ Understand sales distribution across various categories: item type, fat content, outlet size, location type, and establishment year.
+
 ✅ Generate **business insights for sales strategy planning.**
 
 ---
@@ -74,8 +76,11 @@
 ## 🪄 Key Insights
 
 ✅ Regular and Low Fat items contribute differently to total sales, indicating customer preference analysis opportunities.
+
 ✅ Certain item types contribute significantly more to sales, suggesting focus areas for inventory and marketing.
+
 ✅ Newer outlets do not always correspond to higher sales, suggesting the need for location-specific analysis.
+
 ✅ Medium-sized outlets and Tier 3 locations show substantial sales contribution.
 
 ---
